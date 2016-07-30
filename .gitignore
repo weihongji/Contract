@@ -1,0 +1,13 @@
+/Database/Data/YLContract.mdf
+/Database/Data/YLContract_log.ldf
+/Solution/DataAccess/obj
+/Solution/DataAccess/bin
+/Solution/Entities/obj
+/Solution/Entities/bin
+/Solution/Utility/obj
+/Solution/Utility/bin
+/Solution/WinForm/obj
+/Solution/WinForm/bin/*.pdb
+/Solution/WinForm/bin/YLContract.vshost.exe
+/Solution/WinForm/bin/YLContract.vshost.exe.config
+/Solution/WinForm/bin/YLContract.vshost.exe.manifest

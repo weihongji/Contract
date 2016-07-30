@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm", "WinForm\WinForm.csproj", "{2257C607-4880-4AA6-88CF-F9F6FE932682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{DCB6E700-FAE1-4C26-8663-55118C51809C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{1043B141-7B46-4CEA-8738-387167FC9F2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{52345632-67E1-476C-8751-E92303829AA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2257C607-4880-4AA6-88CF-F9F6FE932682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2257C607-4880-4AA6-88CF-F9F6FE932682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2257C607-4880-4AA6-88CF-F9F6FE932682}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2257C607-4880-4AA6-88CF-F9F6FE932682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2257C607-4880-4AA6-88CF-F9F6FE932682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2257C607-4880-4AA6-88CF-F9F6FE932682}.Release|x86.ActiveCfg = Release|Any CPU
+		{DCB6E700-FAE1-4C26-8663-55118C51809C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB6E700-FAE1-4C26-8663-55118C51809C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB6E700-FAE1-4C26-8663-55118C51809C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DCB6E700-FAE1-4C26-8663-55118C51809C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB6E700-FAE1-4C26-8663-55118C51809C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB6E700-FAE1-4C26-8663-55118C51809C}.Release|x86.ActiveCfg = Release|Any CPU
+		{1043B141-7B46-4CEA-8738-387167FC9F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1043B141-7B46-4CEA-8738-387167FC9F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1043B141-7B46-4CEA-8738-387167FC9F2A}.Debug|x86.ActiveCfg = Debug|x86
+		{1043B141-7B46-4CEA-8738-387167FC9F2A}.Debug|x86.Build.0 = Debug|x86
+		{1043B141-7B46-4CEA-8738-387167FC9F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1043B141-7B46-4CEA-8738-387167FC9F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1043B141-7B46-4CEA-8738-387167FC9F2A}.Release|x86.ActiveCfg = Release|x86
+		{1043B141-7B46-4CEA-8738-387167FC9F2A}.Release|x86.Build.0 = Release|x86
+		{52345632-67E1-476C-8751-E92303829AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52345632-67E1-476C-8751-E92303829AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52345632-67E1-476C-8751-E92303829AA3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{52345632-67E1-476C-8751-E92303829AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52345632-67E1-476C-8751-E92303829AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52345632-67E1-476C-8751-E92303829AA3}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
